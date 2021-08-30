@@ -280,3 +280,9 @@ TSWLatexianTemp*
 
 # Sessions
 *.tks
+
+# PowerPoint
+*.pptx
+
+# mac shit
+/.DS_Store
