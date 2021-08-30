@@ -285,4 +285,4 @@ TSWLatexianTemp*
 *.pptx
 
 # mac shit
-/.DS_Store
+.DS_Store
