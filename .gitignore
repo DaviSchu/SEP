@@ -283,3 +283,6 @@ TSWLatexianTemp*
 
 # PowerPoint
 *.pptx
+
+# mac shit
+/.DS_Store
