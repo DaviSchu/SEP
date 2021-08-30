@@ -280,3 +280,6 @@ TSWLatexianTemp*
 
 # Sessions
 *.tks
+
+# PowerPoint
+*.pptx
